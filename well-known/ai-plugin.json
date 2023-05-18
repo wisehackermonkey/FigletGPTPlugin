@@ -1,0 +1,19 @@
+  {
+    "schema_version": "v1",
+    "name_for_human": "Figlet",
+    "name_for_model": "Figlet",
+    "description_for_human": "Plugin for converting strings of text into ascii fonts.",
+    "description_for_model": "Plugin for converting strings of text into ascii fonts.",
+    "auth": {
+      "type": "none"
+    },
+    "api": {
+      "type": "openapi",
+      "url": "http://localhost:3000/openapi.yaml",
+      "is_user_authenticated": false
+    },
+    "logo_url": "https://i.imgur.com/zk4UQWB.png",
+    "contact_email": "oranbusiness+figletgpt@gmail.com",
+    "legal_info_url": "http://example.com/legal"
+  }
+  
