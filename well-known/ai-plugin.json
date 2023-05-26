@@ -2,8 +2,8 @@
     "schema_version": "v1",
     "name_for_human": "Figlet",
     "name_for_model": "Figlet",
-    "description_for_human": "Plugin for converting strings of text into ascii fonts. Use 'Figlet' to convert text. ex:Figlet list font, figlet chunky 'fig'",
-    "description_for_model": "Plugin for converting strings of text into ascii fonts.",
+    "description_for_human": "Plugin for converting strings of text into ASCII fonts.",
+    "description_for_model": "Plugin for converting strings of text into ASCII fonts.",
     "auth": {
       "type": "none"
     },
