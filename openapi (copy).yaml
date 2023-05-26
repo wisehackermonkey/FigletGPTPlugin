@@ -4,7 +4,7 @@ info:
   description: Plugin for converting strings of text into ascii fonts.
   version: 'v1'
 servers:
-  - url: https://figletgptplugin.wisemonkey.repl.co
+  - url: http://localhost:3000
 paths:
   /text:
     post:
